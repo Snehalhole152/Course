@@ -10,6 +10,15 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+def func():
+
+    print("Name_Snehal Hole")
+    print("Topic_Logistic Regression)
+    print(" Classification is among the most important areas of machine learning, and logistic regression is one of its basic methods")
+    
+
+
+
     
 
 
